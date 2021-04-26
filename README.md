@@ -20,6 +20,9 @@ data-structure
 - 第二项
 - 第三项
  
+1. 第一项
+2. 第二项
+3. 第三项
 ```
 #include <stdio.h>
 
