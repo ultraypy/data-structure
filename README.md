@@ -33,3 +33,8 @@ int main() {
  ```
 <b>粗体</b>
 <i>斜体</i>
+<kbd>哈哈哈</kbd> 
+<em>嗯嗯</em>
+<sup>哈哈哈</sup>
+<sub>哈哈哈</sub>
+<br>哈哈哈</br>
