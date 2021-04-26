@@ -23,7 +23,7 @@ data-structure
 1. 第一项
 2. 第二项
 3. 第三项
-```
+```c
 #include <stdio.h>
 
 int main() {
